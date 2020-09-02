@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PSDThu.Common\PSDThu.Common.csproj" />
+    <ProjectReference Include="..\PSDThu.Data\PSDThu.Data.csproj" />
+    <ProjectReference Include="..\PSDThu.Model\PSDThu.Model.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\bin\Debug\netcoreapp3.1\PSDThu.Data.deps.json
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\bin\Debug\netcoreapp3.1\PSDThu.Data.dll
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\bin\Debug\netcoreapp3.1\PSDThu.Data.pdb
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\obj\Debug\netcoreapp3.1\PSDThu.Data.csprojAssemblyReference.cache
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\obj\Debug\netcoreapp3.1\PSDThu.Data.AssemblyInfoInputs.cache
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\obj\Debug\netcoreapp3.1\PSDThu.Data.AssemblyInfo.cs
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\obj\Debug\netcoreapp3.1\PSDThu.Data.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\obj\Debug\netcoreapp3.1\PSDThu.Data.dll
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\obj\Debug\netcoreapp3.1\PSDThu.Data.pdb
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\bin\Debug\netcoreapp3.1\PSDThu.Common.dll
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\bin\Debug\netcoreapp3.1\PSDThu.Model.dll
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\bin\Debug\netcoreapp3.1\PSDThu.Common.pdb
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\bin\Debug\netcoreapp3.1\PSDThu.Model.pdb
+D:\Projects\ASP.NET MVC\Practice-Score-DThu\PSDThu.API\PSDThu.Data\obj\Debug\netcoreapp3.1\PSDThu.Data.csproj.CopyComplete

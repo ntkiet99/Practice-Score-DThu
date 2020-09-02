@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PSDThu.Data/1.0.0": {
+        "dependencies": {
+          "PSDThu.Common": "1.0.0",
+          "PSDThu.Model": "1.0.0"
+        },
+        "runtime": {
+          "PSDThu.Data.dll": {}
+        }
+      },
+      "PSDThu.Common/1.0.0": {
+        "runtime": {
+          "PSDThu.Common.dll": {}
+        }
+      },
+      "PSDThu.Model/1.0.0": {
+        "dependencies": {
+          "PSDThu.Common": "1.0.0"
+        },
+        "runtime": {
+          "PSDThu.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PSDThu.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PSDThu.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PSDThu.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

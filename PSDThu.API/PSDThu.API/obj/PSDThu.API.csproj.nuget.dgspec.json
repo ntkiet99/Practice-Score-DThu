@@ -1,0 +1,320 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.API\\PSDThu.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.API\\PSDThu.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.API\\PSDThu.API.csproj",
+        "projectName": "PSDThu.API",
+        "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.API\\PSDThu.API.csproj",
+        "packagesPath": "C:\\Users\\CrossX\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CrossX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj": {
+                "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj"
+              },
+              "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Data\\PSDThu.Data.csproj": {
+                "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Data\\PSDThu.Data.csproj"
+              },
+              "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Model\\PSDThu.Model.csproj": {
+                "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Model\\PSDThu.Model.csproj"
+              },
+              "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Service\\PSDThu.Service.csproj": {
+                "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Service\\PSDThu.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj",
+        "projectName": "PSDThu.Common",
+        "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj",
+        "packagesPath": "C:\\Users\\CrossX\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CrossX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Data\\PSDThu.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Data\\PSDThu.Data.csproj",
+        "projectName": "PSDThu.Data",
+        "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Data\\PSDThu.Data.csproj",
+        "packagesPath": "C:\\Users\\CrossX\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CrossX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj": {
+                "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj"
+              },
+              "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Model\\PSDThu.Model.csproj": {
+                "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Model\\PSDThu.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Model\\PSDThu.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Model\\PSDThu.Model.csproj",
+        "projectName": "PSDThu.Model",
+        "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Model\\PSDThu.Model.csproj",
+        "packagesPath": "C:\\Users\\CrossX\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CrossX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj": {
+                "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Service\\PSDThu.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Service\\PSDThu.Service.csproj",
+        "projectName": "PSDThu.Service",
+        "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Service\\PSDThu.Service.csproj",
+        "packagesPath": "C:\\Users\\CrossX\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CrossX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj": {
+                "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Common\\PSDThu.Common.csproj"
+              },
+              "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Data\\PSDThu.Data.csproj": {
+                "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Data\\PSDThu.Data.csproj"
+              },
+              "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Model\\PSDThu.Model.csproj": {
+                "projectPath": "D:\\Projects\\ASP.NET MVC\\Practice-Score-DThu\\PSDThu.API\\PSDThu.Model\\PSDThu.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
